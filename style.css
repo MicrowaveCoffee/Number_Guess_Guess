@@ -4,9 +4,20 @@
     border: 1px solid black;
     text-align: center;
     margin: auto;
+    background-color: blanchedalmond;
 }
 
 .input {
     display: none;
-    margin: auto;
+    margin: 10px auto;
+}
+
+.output {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.btn {
+    width: 75%;
 }
